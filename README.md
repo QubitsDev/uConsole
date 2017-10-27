@@ -13,8 +13,9 @@ Create your development commands for your video game and run them from the conso
 <br>
 All registered on this console is registered in the editor console window.<br>
 <br>
-<strong>Asset Store:</strong>
+<strong>Asset Store:</strong><br>
 http://u3d.as/Zmn
 <br>
-<strong>WebGL Demo:</strong>
+<strong>WebGL Demo:</strong><br>
 https://qubitsdev.github.io/uConsole/
+<br>
